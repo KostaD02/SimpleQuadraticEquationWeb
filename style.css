@@ -1,0 +1,61 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: linear-gradient(to right,#00AAFF,#00FF6C);
+}
+
+main{
+	width: 1280px;
+	margin: auto;
+}
+
+.left{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+.outer_box{
+	margin-top: 50px;
+}
+
+.right{
+	width: 50%;
+	height: 100%;
+	float: right;
+}
+
+.right div{
+	height: 50%;
+	width: 100%;
+	margin: 50px auto;
+}
+
+button {
+	color:white;
+	font-weight: bolder;
+	background-color: transparent;
+	width: 100px;
+	height: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 3px solid black;
+}
+
+.lefftt{
+	margin-left: 230px;
+}
+textarea{
+	width: 600px;
+	height: 200px;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 25px;
+	border: 3px solid black;
+	background-color: transparent;
+	color:white;
+	font-weight: bolder;
+}
+.roots{
+	font-size:25px; 
+}
